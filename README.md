@@ -38,14 +38,55 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-Bridge rectifier with filter:
+<img width="1280" height="885" alt="image" src="https://github.com/user-attachments/assets/5d78a0ca-cfcb-40f7-8d8b-36612ac155fd" />
+
+Half wave rectifier without filter:
+
+<img width="1280" height="772" alt="image" src="https://github.com/user-attachments/assets/5348abef-46ee-47e7-8adc-2021dbf286ce" />
+
+Full wave rectifier with filter: 
+
+<img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/3ed8934d-cc98-4163-9516-876481861eab" />
+
+Full wave rectifier without filter:
+
+<img width="1252" height="912" alt="image" src="https://github.com/user-attachments/assets/0ba666e6-b563-4a79-9097-0f9660835aea" />
 
 TABULAR COLUMN
-Rectifier without filter
+
+Half wave Rectifier
+
+<img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/07336c36-5b00-47e0-91f7-d68cd0ae0034" />
+
+<img width="1280" height="566" alt="image" src="https://github.com/user-attachments/assets/da569f0e-c5de-43d4-bf8e-0b8d7ce39671" />
+
 TABULAR COLUMN
-Rectifier with filter
+
+Full wave Rectifier
+
+<img width="1280" height="466" alt="image" src="https://github.com/user-attachments/assets/89fb24da-7f5a-44ad-998d-4583944b973e" />
+
+<img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/8debeb95-504d-4bcb-8916-e3b4682b98ee" />
 
 WAVEFORM:
+
+Half wave without filter
+
+<img width="1280" height="808" alt="image" src="https://github.com/user-attachments/assets/ed250302-2348-4c9a-b1fa-b5f568274ad2" />
+
+Half wave with filter
+
+<img width="1280" height="811" alt="image" src="https://github.com/user-attachments/assets/dcca78ec-c871-41c8-8e87-9be609f9f0cf" />
+
+Full wave without filter
+
+<img width="1280" height="813" alt="image" src="https://github.com/user-attachments/assets/b1c24e20-2e40-4134-bb7d-db9161df92d5" />
+
+Full wave with filter
+
+<img width="1280" height="815" alt="image" src="https://github.com/user-attachments/assets/346a342c-a512-4f0f-9d17-a9d7dc2dfd75" />
+
+
 
 
 RESULT:
